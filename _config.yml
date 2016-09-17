@@ -11,7 +11,7 @@ subtitle: 'Another Minimalistic Static Site Quick Starter Theme'
 #    note: for root path use empty string e.g. '' - do NOT include trailing slash e.g. /
 
 path:  '/jekyll-starter-theme'
-url:   'http://henrythemes.github.io/jekyll-starter-theme'
+url:   'http://mrmccormack.github.io'
 
 
 #########################
