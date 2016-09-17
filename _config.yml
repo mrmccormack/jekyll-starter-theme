@@ -19,6 +19,8 @@ url:   'http://mrmccormack.github.io'
 
 markdown: kramdown
 
+highlighter: rouge
+
 exclude:
 - README.md
 
