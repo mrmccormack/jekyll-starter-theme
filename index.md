@@ -5,6 +5,15 @@ title:  Welcome
 
 # {{ page.title }}
 
+# From another BLOG
+
+{% highlight python %}
+
+#! /usr/bin/env python
+from avocado import main
+
+{% endhighlight %}
+
 
 ## Code highlighighting
 
