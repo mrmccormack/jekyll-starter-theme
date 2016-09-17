@@ -18,13 +18,11 @@ url:   'http://mrmccormack.github.io'
 # more settings
 
 
+# Dependencies
+markdown: kramdown
+highlighter: true
 
-# Conversion
-markdown:    kramdown
-highlighter: rouge
-lsi:         false
-excerpt_separator: "\n\n"
-incremental: false
+
 
 exclude:
 - README.md
