@@ -18,10 +18,11 @@ url:   'http://mrmccormack.github.io'
 # more settings
 
 
-# Dependencies
-markdown: kramdown
-highlighter: true
-
+# Build settings
+kramdown:
+  syntax_highlighter_opts:
+    block:
+line_numbers: true
 
 
 exclude:
