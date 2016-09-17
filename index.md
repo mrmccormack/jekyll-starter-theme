@@ -14,6 +14,17 @@ markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
 
+# More ideas:
+{% highlight ruby %}
+def show
+  @widget = Widget(params[:id])
+  respond_to do |format|
+    format.html # show.html.erb
+    format.json { render json: @widget }
+  end
+end
+{% endhighlight %}
+
 
 _Add your text here_
 
