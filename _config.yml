@@ -17,9 +17,14 @@ url:   'http://mrmccormack.github.io'
 #########################
 # more settings
 
-markdown: kramdown
 
+
+# Conversion
+markdown:    kramdown
 highlighter: rouge
+lsi:         false
+excerpt_separator: "\n\n"
+incremental: false
 
 exclude:
 - README.md
